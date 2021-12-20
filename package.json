@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_prog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "10_fs_module.js",
+  "scripts": {
+    "start": "nodemon ./express/1_demo_server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_prog",
+  "version": "1.0.0",
+  "description": "This is the package for the express module specific content",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "nodemon": "^2.0.15"
+  }
+}
